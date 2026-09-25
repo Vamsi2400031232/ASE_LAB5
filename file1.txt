@@ -1,1 +1,2 @@
 My First Git Lab
+This change is made in Branch2.
